@@ -1,6 +1,6 @@
 {
   "name": "db-method",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个集去重、扁平化的npm包",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/GDYG/db-method.git"
   },
-  "author": "",
+  "author": "GDYG",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GDYG/db-method/issues"
