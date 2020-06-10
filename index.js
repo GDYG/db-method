@@ -63,10 +63,9 @@ function sortMao(arr) {
     return arr;
 }
 
-
-// export default {
-//     arraySet: arraySet,
-//     arrayFlat: arrayFlat,
-//     debounce: debounce,
-//     throttle: throttle
-// }
+export default {
+    arraySet: arraySet,
+    arrayFlat: arrayFlat,
+    debounce: debounce,
+    throttle: throttle
+}
